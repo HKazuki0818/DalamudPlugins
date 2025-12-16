@@ -12,11 +12,11 @@
     "RepoUrl": "https://github.com/HKazuki0818/AntiAfkKick",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 12,
-    "DownloadCount": 221724,
-    "LastUpdate": 1754531906,
+    "DownloadCount": 0,
+    "LastUpdate": 1765890717,
     "DownloadLinkInstall": "https://github.com/HKazuki0818/AntiAfkKick/releases/download/2.1.0.8/latest.zip",
     "DownloadLinkUpdate": "https://github.com/HKazuki0818/AntiAfkKick/releases/download/2.1.0.8/latest.zip",
     "SupportsProfiles": true,
-    "IconUrl": "https://github.com/HKazuki0818/AntiAfkKick/master/AntiAfkKick-Dalamud/images/icon.png"
+    "IconUrl": "https://raw.githubusercontent.com/HKazuki0818/AntiAfkKick/master/AntiAfkKick-Dalamud/images/icon.png"
   }
 ]
